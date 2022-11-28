@@ -241,7 +241,7 @@ MonoBehaviour:
     enemyPrefab: {fileID: 7479521527153541353, guid: 82165b7ecdd4dcf46a9e2db4f80b7002, type: 3}
     finalRoomPrefab: {fileID: 4863608318785074553, guid: 08f83d8260851ca419c99d8f5cf045ce, type: 3}
   amount: 8
-  blocks: 3
+  blocks: 8
 --- !u!4 &1571476157
 Transform:
   m_ObjectHideFlags: 0
