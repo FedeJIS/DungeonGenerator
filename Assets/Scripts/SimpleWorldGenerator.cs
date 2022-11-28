@@ -76,6 +76,7 @@ public class SimpleWorldGenerator : MonoBehaviour
 
     private void Restart()
     {
+        currentPosition = Vector3.zero;
         Destroy(dungeonRoot.gameObject);
         GenerateDungeon();
     }
